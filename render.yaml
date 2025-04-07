@@ -10,4 +10,4 @@ services:
       - key: EMAIL_USER
         value: bijuallen51@gmail.com
       - key: EMAIL_PASS
-        value:cnkk escs gjoi umiv
+        value: cnkk escs gjoi umiv
